@@ -18,7 +18,7 @@
 ## 🛰️ Transmission Information
 *   **Age:** 20 (Born 2005)
 *   **Coordinates:** London, UK (Student at Queen Mary, University of London)
-*   **Background:** Born and raised in Dubai (Pakistani heritage) — a hybrid of multicultural perspectives and early internet nostalgia.
+*   **Background:** Born and raised in Dubai — a hybrid of multicultural perspectives and early internet nostalgia.
 *   **Archetype:** Analytical senior-level power user. I bridge the gap between abstract mathematical intuition and low-level system mechanics.
 
 ---
