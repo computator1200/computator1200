@@ -2,8 +2,15 @@
 ### **Digital Archaeologist & Systems Architect**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=computator1200&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=computator1200&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+  <img src="profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile Details" />
+</p>
+<p align="center">
+  <img src="profile-summary-card-output/nord_dark/3-stats.svg" alt="GitHub Stats" />
+  <img src="profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Most Used Language" />
+  <img src="profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Productive Time" />
 </p>
 
 ---
