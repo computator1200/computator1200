@@ -1,4 +1,4 @@
-# 🌐 Shaan | computator1200
+# 🌐 computator1200
 ### **Digital Archaeologist & Systems Architect**
 
 <p align="center">
