@@ -3,11 +3,18 @@
 **Automation · backend services · applied ML**
 
 <p align="center">
-  <img src="profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
+
 <p align="center">
-  <img src="profile-summary-card-output/nord_dark/3-stats.svg" alt="GitHub Stats" />
-  <img src="profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Top Languages" />
+  <img src="https://img.shields.io/github/stars/computator1200/hermes-ircx-plugin?style=for-the-badge&label=ircx%20stars&color=8957E5" alt="Stars" />
+  <img src="https://img.shields.io/github/license/computator1200/hermes-ircx-plugin?style=for-the-badge&color=3DA639" alt="License" />
+  <img src="https://img.shields.io/github/last-commit/computator1200/hermes-ircx-plugin?style=for-the-badge&color=5865F2" alt="Last commit" />
 </p>
 
 ---
@@ -76,5 +83,10 @@ handling that implies.
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=computator1200&theme=nord&hide_border=true" alt="GitHub Streak" />
+  <img src="profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Top Languages by Repo" />
+  <img src="profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Top Languages by Commit" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=computator1200&theme=nord&hide_border=true" alt="GitHub Streak" />
 </p>
